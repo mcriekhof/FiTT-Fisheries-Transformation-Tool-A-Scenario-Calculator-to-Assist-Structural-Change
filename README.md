@@ -57,7 +57,7 @@ Default simulation parameters are stored in `default_values.R`, including:
 - Target monthly net income per enterprise  
 - Depreciation and national landing share estimates  
 
-All computational logic (e.g., income tax model, sliders, conditional UI panels, and income calculations) is implemented in `libraries_functions.R`.
+All computational logic (e.g., income tax model, sliders, and income calculations) is implemented in `libraries_functions.R`.
 
 
 ## Acknowledgements
